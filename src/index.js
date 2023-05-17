@@ -8,4 +8,5 @@ ReactDOM.render(
     <Timer />
   </React.StrictMode>,
   document.getElementById('root')
+  
 );
